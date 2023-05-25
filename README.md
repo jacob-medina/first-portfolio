@@ -1,1 +1,54 @@
-# portfolio
+# Jacob Medina Portfolio
+
+## Description
+[Click here to visit the live website.](https://jacob-medina.github.io/portfolio/)
+
+This project is my professional portfolio, which outlines my web development projects and some information about myself.
+
+![Portfolio Website Preview](./assets/images/jacob-medina-portfolio-preview.png)
+
+The aim of my portfolio is to present my skills and works to potential employers. When viewing the website, employers will see a clean and responsive user interface. This adds more credibility and professionalism to my work.
+
+
+## Usage
+
+My portfolio is fully interactive and responsive. Users may do the following:
+- Resize the window to get a layout that is appropriate for the screen dimensions
+
+- Navigation Menu
+  - Click on the **Projects** or **Contact** button to scroll to those respective sections
+  - Click on the **Resume** button to open a PDF of my resume
+
+
+- Projects
+  - Click on a **Live Site** button or project image to open the live website of that particular project
+  - Click on a **See Code** button to open the respository of the project
+
+- Contact
+  - Click on the **Email** anchor to open a `mailto` link with me as the recipient
+  - Click on the **LinkedIn** or **GitHub** anchors to open my account on those respective sites
+
+
+## Code Source
+
+The two files that were edited in this project were `index.html` and `style.css`.
+
+These files can be found through the following path (from root):
+- `index.html`
+- `/assets/css/style.css`
+
+
+## Credits
+
+The file `reset.css` was not created by me. It was downloaded from [meyerweb](https://meyerweb.com), which provides a public reset.css file. It comes with the following citation information:
+
+> http://meyerweb.com/eric/tools/css/reset/ 
+> 
+> v2.0 | 20110126
+>
+>License: none (public domain)
+
+
+## License
+
+This project is made under the [MIT License](./LICENSE).
