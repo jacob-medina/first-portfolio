@@ -50,7 +50,9 @@ The file `reset.css` was not created by me. It was downloaded from [meyerweb](ht
 
 The fonts used in my portfolio are not owned by me, but are open-source. Here is the copyright for the fonts:
 > Copyright 2020 The Poppins Project Authors [https://github.com/itfoundry/Poppins](https://github.com/itfoundry/Poppins)
+>
 > Copyright 2020 The Space Grotesk Project Authors [https://github.com/floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk)
+>
 > All fonts are held under the [SIL Open Font License, 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 
