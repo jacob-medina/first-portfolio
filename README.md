@@ -56,9 +56,6 @@ The fonts used in my portfolio are not owned by me, but are open-source. Here is
 > All fonts are held under the [SIL Open Font License, 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 
-In my Projects list, I did not create the websites "Google" and "Krispy Kreme". They only stand as placeholders for now.
-
-
 ## License
 
 This project is made under the [MIT License](./LICENSE).
