@@ -339,7 +339,7 @@ section {
     border-radius: var(--border-radius);
 } */
 
-.project img {
+.project .project-img-link img {
     width: 100%;
     max-width: 330px;
     position: relative;
@@ -367,6 +367,12 @@ section {
     font-size: var(--button-icon-font-size);
     margin: var(--button-icon-margin);
     content: 'code';
+}
+
+.tool-logo {
+    /* width: 20px; */
+    height: 20px;
+    margin: 5px;
 }
 
 .diagonal-background {
@@ -457,7 +463,7 @@ footer * {
         justify-content: flex-start;
     }
 
-    #project-section img {
+    #project-section .project-img-link img {
         width: 30vw;
     }
 
