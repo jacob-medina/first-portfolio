@@ -40,6 +40,8 @@ These files can be found through the following path (from root):
 
 ## Credits
 
+All images in the folder `/images/logos/` originate from [World Vector Logo](https://worldvectorlogo.com/).
+
 The file `reset.css` was not created by me. It was downloaded from [meyerweb](https://meyerweb.com), which provides a public reset.css file. It comes with the following citation information:
 
 > http://meyerweb.com/eric/tools/css/reset/ 
