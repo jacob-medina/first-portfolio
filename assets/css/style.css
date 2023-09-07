@@ -353,6 +353,10 @@ section {
     margin: auto 0;
 }
 
+.project-description p {
+    text-align: center;
+}
+
 /* live site icon */
 .button-live-site::before {
     font-family: var(--button-icon-font-family);
@@ -438,7 +442,7 @@ footer * {
 }
 
 /* MEDIA QUERIES */
-@media screen and (min-width: 660px) {
+@media screen and (min-width: 740px) {
     nav {
         width: 75%;
         margin-left: auto;
@@ -469,6 +473,10 @@ footer * {
 
     .project-description {
         width: 384px;
+    }
+
+    .project-description p {
+        text-align: left;
     }
 }
 
